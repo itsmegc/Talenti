@@ -1,1 +1,1 @@
-<php header ('location:/ index.html' ) ;? >
+<php header ('location:https://talenti27.herokuapp.com/index.html' ) ;? >
