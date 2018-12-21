@@ -1,1 +1,1 @@
-<php header ('') ;? >
+<php header ('location:/ index.html' ) ;? >
